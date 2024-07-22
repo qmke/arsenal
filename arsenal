@@ -119,7 +119,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 -- Create the main window and tabs
 local Window = Fluent:CreateWindow({
     Title = "Quantium: Game " .. MarketplaceService:GetProductInfo(game.PlaceId).Name,
-    SubTitle = "by DekuDimz",
+    SubTitle = "by Quantium",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = false,
